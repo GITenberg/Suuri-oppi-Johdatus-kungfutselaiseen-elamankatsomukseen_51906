@@ -1,0 +1,32 @@
+_repo: Suuri-oppi-Johdatus-kungfutselaiseen-elamankatsomukseen_51906
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Korhonen, Kalle
+    gutenberg_agent_id: '46603'
+    url: http://www.gutenberg.org/2009/agents/46603
+creator:
+  author:
+    agent_name: Confucius
+    alias: 孔子
+    birthdate: -551
+    deathdate: -479
+    gutenberg_agent_id: '1180'
+    url: http://www.gutenberg.org/2009/agents/1180
+    wikipedia: http://en.wikipedia.org/wiki/Confucius
+description: ''
+gutenberg_issued: '2016-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51906'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Confucianism'
+- !lcsh 'Philosophy, Chinese'
+- GITenberg
+title: 'Suuri oppi: Johdatus kungfutselaiseen elämänkatsomukseen'
+url: http://www.gutenberg.org/ebooks/51906
